@@ -20,7 +20,8 @@ https://www.figma.com/file/VYKrNNRiPxCtxYozamTQNB/ACMEFilmes?type=design&node-id
 
 [ ! ] Modularizou o projeto? ou seja, criou arquivos diferente dependendo da sua funcionalidade ou objetivo?
 
-[ ! ] Foi utilizado o método PUT para modificar alguma informação dos filmes?
+[ ! ] Foi utilizado o método PUT para modificar alguma informação dos filmes? (
+(PUT COM PROBLEMA)
 
 [ ! ] Foi utilizado o método DELETE para excluir um filmes?
 
